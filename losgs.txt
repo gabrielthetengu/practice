@@ -1,0 +1,11 @@
+commit 6ea3513c3daa29931953092ce95a5557e66b3365
+Author: gabrielthetengu <gabrielthetengu@users.noreply.github.com>
+Date:   Fri Aug 5 21:42:52 2016 -0500
+
+    Create newfike.tsxt
+
+commit a0330c8764b489d49b4fe3a904b320606543524f
+Author: the tengu <gabriel.thetengu.barrera@gmail.com>
+Date:   Fri Aug 5 21:42:04 2016 -0500
+
+    beginnig
